@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+body {
+  margin: 0;
+  padding: 300px;
+  background-color: burlywood;
+}
+
+.omelette-pics {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  margin: 0;
+}
+
+.content {
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Outfit", sans-serif;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.prepare {
+  color: rgb(153, 51, 114);
+  font-family: "Outfit", sans-serif;
+  margin: 10px;
+}
+
+.main-text {
+  background-color: rgb(248, 226, 229);
+  border-radius: 10px;
+}
+
+.steps,
+.ingredients,
+.nut-value {
+  color: rgb(165, 89, 42);
+  font-family: "Young Serif";
+  margin: 10px;
+}
+.menu-item {
+  display: flex;
+  gap: 50%;
+  border-bottom: 1px solid grey;
+}
+
+.table {
+  display: flex;
+  gap: 50%;
+}
+
+.value {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table-value {
+  margin-left: auto;
+  margin-right: auto;
+}
