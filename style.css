@@ -44,23 +44,15 @@ body {
   font-family: "Young Serif";
   margin: 10px;
 }
+
 .menu-item {
   display: flex;
-  gap: 50%;
-  border-bottom: 1px solid grey;
+  gap: 50px;
+  border-bottom: 1px, solid brown;
 }
 
-.table {
-  display: flex;
-  gap: 50%;
-}
-
-.value {
+.values {
   margin-left: auto;
   margin-right: auto;
-}
-
-.table-value {
-  margin-left: auto;
-  margin-right: auto;
+  color: rgb(165, 89, 42);
 }
